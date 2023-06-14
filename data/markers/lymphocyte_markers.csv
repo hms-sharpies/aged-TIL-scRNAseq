@@ -1,0 +1,13 @@
+cell population	marker
+exhaustion	Tox
+PD1	Pdcd1
+term_exh	Havcr2
+prog_exh	Slamf6
+proliferation	Mki67
+coinh_receptor	Lag3
+transitory_exh	Cx3cr1
+term_exh	Entpd1
+naive	Sell
+antigen_experience	Cd44
+memory	Ccr7
+term_exh	Cd101

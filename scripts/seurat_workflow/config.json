@@ -1,0 +1,9 @@
+{
+	"output_dir_name":"2021-01-04_workflow", 
+	"sample_names":["O1", "O2", "Y1", "Y2"], 
+	"markers_filename":"lymphocyte_markers.csv", 
+	"normalization_method":"sctransform", 
+	"integration_method":"merge",
+	"iteration":1,
+	"louvain_res":0.5
+}
