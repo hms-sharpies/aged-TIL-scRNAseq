@@ -1,8 +1,8 @@
 # aged-TIL-scRNAseq
 
-This repository hosts the code used to analyze single cell RNA-sequencing from the paper [PAPER TITLE HERE]. 
+This repository hosts the code used to analyze single cell RNA-sequencing from the paper "Age-associated contraction of tumor-specific T cells impairs anti-tumor immunity." 
 
-The associated GEO repository is [GEO accession number here]. Additionally, the single cell counts matrices and other associated data tables have been uploaded to the [Single Cell Portal (Accession: SCP2091)](https://singlecell.broadinstitute.org/single_cell/study/SCP2091/effects-of-age-on-anti-tumor-function-in-cd8-t-cells). 
+The associated GEO repository is GSE236227. Additionally, the single cell counts matrices and other associated data tables have been uploaded to the [Single Cell Portal (Accession: SCP2091)](https://singlecell.broadinstitute.org/single_cell/study/SCP2091/effects-of-age-on-anti-tumor-function-in-cd8-t-cells). 
 
 --------
 
